@@ -6,7 +6,7 @@
 
 | 캐릭터 | 클래스 | 역할 | 링크 |
 | :--- | :--- | :--- | :--- |
-| **아루샬레 (Arueshalae)** | 에스피오나지 엑스퍼트 (Espionage Expert) | 원거리 물리 딜러 (DPS) | [상세 보기](./builds/arueshalae-ranger.md) |
+| **아루샬레 (Arueshalae)** | 에스피오나지 엑스퍼트 (Espionage Expert) | 원거리 물리 딜러 (DPS) | [상세 보기](./builds/party/arueshalae-ranger.md) |
 
 ## 🛠️ 사용 방법
 1. 각 캐릭터의 링크를 클릭하여 상세 빌드 경로를 확인하세요.
